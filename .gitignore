@@ -2,9 +2,13 @@
 node_modules/
 dist/
 
+# Venv
+.env/
+
 # Python
 *.pyc
 __pycache__/
+**/.ipynb_checkpoints/
 *_pickle
 
 # IDE
